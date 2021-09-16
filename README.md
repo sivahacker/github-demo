@@ -12,6 +12,6 @@ As stated above, the main purpose is to provide simple examples for Git and Gith
 
 ## Deployment
 
-This is a simple web project, deployment can be on any web srver
+This is a simple web project, deployment can be on any web server
 
 ## How to Contribute
